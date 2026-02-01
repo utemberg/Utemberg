@@ -54,11 +54,6 @@ Meu principal projeto público no momento é meu **portfólio online**, onde apr
 
 ## 🎥 Demonstração do Portfólio
 
-> **Como usar:** envie estes arquivos para `assets/portfolio/` no seu repositório do perfil:
-> - `assets/portfolio/portfolio-demo.gif`
-> - `assets/portfolio/portfolio-hero.gif`
-> - `assets/portfolio/portfolio-tech.gif`
-
 <p align="center">
   <img src="assets/portfolio/portfolio-demo.gif" width="900" alt="Demonstração do Portfólio" />
 </p>
