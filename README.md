@@ -52,6 +52,39 @@ Meu principal projeto público no momento é meu **portfólio online**, onde apr
 
 ---
 
+## 🎥 Demonstração do Portfólio
+
+> **Como usar:** envie estes arquivos para `assets/portfolio/` no seu repositório do perfil:
+> - `assets/portfolio/portfolio-demo.gif`
+> - `assets/portfolio/portfolio-hero.gif`
+> - `assets/portfolio/portfolio-tech.gif`
+
+<p align="center">
+  <img src="assets/portfolio/portfolio-demo.gif" width="900" alt="Demonstração do Portfólio" />
+</p>
+
+<p align="center">
+  <i>Visão geral do portfólio: navegação, layout e organização das seções.</i>
+</p>
+
+<p align="center">
+  <img src="assets/portfolio/portfolio-hero.gif" width="800" alt="Portfólio - Página Inicial" />
+</p>
+
+<p align="center">
+  <i>Página inicial com apresentação profissional e proposta de valor.</i>
+</p>
+
+<p align="center">
+  <img src="assets/portfolio/portfolio-tech.gif" width="800" alt="Portfólio - Tecnologias e Habilidades" />
+</p>
+
+<p align="center">
+  <i>Seção de tecnologias e habilidades com foco em dados e BI.</i>
+</p>
+
+---
+
 ## 🧰 Linguagens e Tecnologias
 
 <p align="left">
@@ -113,3 +146,4 @@ Meu principal projeto público no momento é meu **portfólio online**, onde apr
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=utemberg&layout=compact&theme=tokyonight" 
   />
 </p>
+```
