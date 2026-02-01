@@ -7,7 +7,7 @@ Me chamo **Utemberg Moisés**, sou **Analista de Dados** com **mais de 5 anos de
 📍 Mossoró – RN, Brasil  
 ✉️ E-mail: utembergsh@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/utembergdata  
-💻 Portfólio: https://utemberg.github.io/meu-portfolio-v1/  
+💻 Portfólio: https://utemberg.github.io/utemberg-data-portfolio/
 
 ---
 
@@ -48,7 +48,7 @@ Me chamo **Utemberg Moisés**, sou **Analista de Dados** com **mais de 5 anos de
 Meu principal projeto público no momento é meu **portfólio online**, onde apresento minha trajetória, competências e stack técnica.
 
 🔗 **Acesse:**  
-👉 https://utemberg.github.io/meu-portfolio-v1/
+👉 https://utemberg.github.io/utemberg-data-portfolio/
 
 ---
 
