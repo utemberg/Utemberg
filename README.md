@@ -141,4 +141,3 @@ Meu principal projeto público no momento é meu **portfólio online**, onde apr
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=utemberg&layout=compact&theme=tokyonight" 
   />
 </p>
-```
