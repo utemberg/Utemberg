@@ -5,7 +5,7 @@
 Me chamo **Utemberg Moisés**, sou **Analista de Dados** com **mais de 5 anos de experiência** atuando na interseção entre **tecnologia, dados, contabilidade e processos de negócio**. Tenho vivência com **ERPs corporativos**, **análise financeira**, extração e tratamento de dados com **SQL**, e criação de **dashboards gerenciais no Power BI** para apoiar a tomada de decisão.
 
 📍 Mossoró – RN, Brasil  
-✉️ utembergsh@gmail.com  
+✉️ E-mail: utembergsh@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/utembergdata  
 💻 Portfólio: https://utemberg.github.io/meu-portfolio-v1/  
 
@@ -129,15 +129,25 @@ Meu principal projeto público no momento é meu **portfólio online**, onde apr
 
 ## 📊 Estatísticas do GitHub
 
-<p>
-  <img 
-    alt="GitHub Stats" 
-    height="170" 
-    src="https://github-readme-stats.vercel.app/api?username=utemberg&show_icons=true&theme=tokyonight&hide_rank=true" 
+<p align="center">
+  <img
+    alt="GitHub Streak"
+    height="180"
+    src="https://streak-stats.demolab.com?user=utemberg&theme=tokyonight&hide_border=true"
   />
-  <img 
-    alt="Top Langs" 
-    height="170" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=utemberg&layout=compact&theme=tokyonight" 
+</p>
+
+<p align="center">
+  <img
+    alt="GitHub Trophy"
+    height="180"
+    src="https://github-profile-trophy.vercel.app/?username=utemberg&theme=tokyonight&no-frame=true&row=1&column=6"
+  />
+</p>
+<p align="center">
+  <img
+    alt="Top Languages"
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=utemberg&layout=compact&theme=tokyonight&hide_border=true"
   />
 </p>
